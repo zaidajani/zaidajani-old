@@ -1,5 +1,3 @@
-![](https://github.com/deep-sangani/deep-sangani/blob/main/header_white_.png)
-
 ## Hi there, I am zaid, aka <a href="https://youtube.com/zaidajani">youtuber</a>👋.
 
 ### I am a student, developer, youtuber, and more!!
@@ -37,7 +35,5 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zaidajani&show_icons=true&hide_border=true" />
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
