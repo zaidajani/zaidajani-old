@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          comment_tag_name: "YOUTUBE"
+          ref: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCEiSZQVVHKaC89N5gp7p4qQ"
