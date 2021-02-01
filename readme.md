@@ -10,7 +10,7 @@
 ### Connect with me
 
 <a href="https://youtube.com/zaidajani"><img align="left" alt="zaidajani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
-<a href="mailto:zaid.metal.ajani@gmail.com"><img align="left" alt="zaidajani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
+<a href="mailto:zaid.metal.ajani@gmail.com"><img align="left" alt="zaidajani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
 <br />
 
