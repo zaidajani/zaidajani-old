@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently learning everything 🤣
 * 👩‍🏫 I teach programming on youtube
-* 🏫 I have a youtube channel <a href="https://youtube.com/zaidajani">zaid ajani</a>👋.
+* 🏫 I have a youtube channel <a href="https://youtube.com/zaidajani">Zaid Ajani</a>👋.
 * 🎈 I have over 45 repos on github
 
 ### Connect with me
