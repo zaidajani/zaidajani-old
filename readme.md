@@ -1,3 +1,5 @@
+![header-image](./19362653.jpg)
+
 ## Hi there, I am zaid, aka <a href="https://youtube.com/zaidajani">youtuber</a>👋.
 
 ### I am a student, developer, youtuber, and more!!
